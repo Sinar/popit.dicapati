@@ -1,6 +1,6 @@
-import tests
+import dicapati
 
 print "Popit API MP posts count for Dewan Rakyat:"
-print tests.dewan_rakyat_posts()
+print dicapati.dewan_rakyat_posts()
 
 
